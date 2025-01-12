@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ショートカット</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <script>
+        // 開きたいURLにリダイレクト
+        window.location.href = "https://gifu-shigi.com"; // ここにターゲットURLを入力
+    </script>
+</body>
+</html>
+    <script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('service-worker.js').then(function() {
+            console.log('Service Worker registered!');
+        });
+    }
+</script>
