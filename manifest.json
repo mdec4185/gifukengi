@@ -1,6 +1,6 @@
 {
-  "short_name": "Shortcut",
-  "name": "My Shortcut App",
+  "short_name": "gifukengi",
+  "name": "gifu",
   "icons": [
     {
       "src": "icons/icon-512x512.png",
@@ -8,7 +8,7 @@
       "type": "image/png"
     },
   ],
-  "start_url": "https://gifu-shigi.com",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#oooooo"
