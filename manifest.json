@@ -10,6 +10,6 @@
   ],
   "start_url": "https://gifu-shigi.com",
   "display": "standalone",
-  "background_color": "#00ffff",
-  "theme_color": "#ff0000"
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
 }
